@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #136BFB;
+}
+
+h1 {
+    margin-right: 100px;
+    color: white;
+}
+
+p {
+    margin-right: 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 28px;
+    color: white;
+}
+
+.row > * {
+    margin-top: 200px;
+    width: 500px;
+    margin-left: 0px;
+}
+
+.test {
+    width: 600px;
+    height: 250px;
+    margin-top: 325px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #136BFB;
+    color: #FFFFFF;
+    border-color: #136BFB #136BFB #136BFB;
+}
+
+.nav-link {
+    width: 178px;
+}
+
+.login-logout-card ul.nav-tabs {
+    margin: 0px 60px -12px 60px;
+}
+
+.mt-5 {
+    margin-top: 9rem !important;
+}
+
+.login-logout-card .card-header {
+    border-radius: 10px;
+}
+

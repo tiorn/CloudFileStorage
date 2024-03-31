@@ -18,5 +18,81 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    font-family: "Myriad Pro Light SemiExtended";
+    background-color: #136BFB;
 }
+
+/*tab navigation*/
+.login-logout-card .card-header {
+    padding: 0px 0px 12px 0px;
+}
+
+.login-logout-card ul.nav-tabs {
+    margin: 0px 0px -12px 0px;
+}
+
+.login-logout-card li.nav-item {
+    width: 50%;
+    padding-top: 70px;
+}
+
+.login-logout-card a.nav-link {
+    font-size: 1rem;
+    color: #898989;
+    text-align: center;
+    padding: 1rem;
+}
+
+.login-logout-card .card-body {
+    padding: 10px 50px;
+    height: 500px;
+}
+
+.form-control {
+    border: 0px;
+    border-bottom: 1.5px solid #E5E5E5;
+    border-radius: .0rem;
+}
+
+*, ::after, ::before {
+    color: #898989;
+}
+
+.card-header {
+    background-color: #FFFFFF;
+    border-bottom: 0px solid #136BFB;
+}
+
+.card {
+    margin-top: 25px;
+    height: 600px;
+    border: hidden;
+    border-radius: 10px;
+}
+
+.card > hr {
+    margin-right: 60px;
+    margin-left: 60px;
+    color: #136BFB;
+    height: 3px;
+}
+hr {
+    margin: -0.1rem 0;
+    opacity: 1;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.nav-tabs .nav-link {
+    border: 0px solid transparent; 
+}
+
+.form-check-input {
+    margin-right: 12px;
+}
+
+
+
+
+
+

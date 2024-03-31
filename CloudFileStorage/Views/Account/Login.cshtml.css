@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.form-floating {
+    font-size: 16px;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+    padding: .7rem 1rem;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.row {
+    margin-right: -52px;
+    margin-left: -52px;
+}
