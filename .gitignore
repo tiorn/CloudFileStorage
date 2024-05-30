@@ -9,6 +9,7 @@ obj
 bundles
 .vs
 *.user
+launchSettings.json
 
 # User-specific files
 *.rsuser
